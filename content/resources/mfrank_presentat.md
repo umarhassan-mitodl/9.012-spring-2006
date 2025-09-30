@@ -4,6 +4,8 @@ description: Sample slides from a student presentation on language acquisition.
 file: /courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/038c9e8a1f1229add91cfa5b781cc1b9_mfrank_presentat.pdf
 file_size: 441554
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
